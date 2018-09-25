@@ -1,0 +1,10 @@
+C:\Users\JOAQUIN CABELLO\source\repos\TrabajoPracticJoaKiing\TrabajoPracticJoaKiing\bin\Debug\TrabajoPracticJoaKiing.exe.config
+C:\Users\JOAQUIN CABELLO\source\repos\TrabajoPracticJoaKiing\TrabajoPracticJoaKiing\bin\Debug\TrabajoPracticJoaKiing.exe
+C:\Users\JOAQUIN CABELLO\source\repos\TrabajoPracticJoaKiing\TrabajoPracticJoaKiing\bin\Debug\TrabajoPracticJoaKiing.pdb
+C:\Users\JOAQUIN CABELLO\source\repos\TrabajoPracticJoaKiing\TrabajoPracticJoaKiing\obj\Debug\TrabajoPracticJoaKiing.csprojAssemblyReference.cache
+C:\Users\JOAQUIN CABELLO\source\repos\TrabajoPracticJoaKiing\TrabajoPracticJoaKiing\obj\Debug\TrabajoPracticJoaKiing.Form1.resources
+C:\Users\JOAQUIN CABELLO\source\repos\TrabajoPracticJoaKiing\TrabajoPracticJoaKiing\obj\Debug\TrabajoPracticJoaKiing.Properties.Resources.resources
+C:\Users\JOAQUIN CABELLO\source\repos\TrabajoPracticJoaKiing\TrabajoPracticJoaKiing\obj\Debug\TrabajoPracticJoaKiing.csproj.GenerateResource.cache
+C:\Users\JOAQUIN CABELLO\source\repos\TrabajoPracticJoaKiing\TrabajoPracticJoaKiing\obj\Debug\TrabajoPracticJoaKiing.csproj.CoreCompileInputs.cache
+C:\Users\JOAQUIN CABELLO\source\repos\TrabajoPracticJoaKiing\TrabajoPracticJoaKiing\obj\Debug\TrabajoPracticJoaKiing.exe
+C:\Users\JOAQUIN CABELLO\source\repos\TrabajoPracticJoaKiing\TrabajoPracticJoaKiing\obj\Debug\TrabajoPracticJoaKiing.pdb
